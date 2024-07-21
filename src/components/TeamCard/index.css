@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 380px;
+  height: 200px;
+  margin: 40px;
+  background-color: #ffffff33;
+  border-style: solid;
+  border-color: #ffffff33;
+  border-radius: 20px;
+  padding: 10px;
+}
+.img {
+  height: 100px;
+  margin: 20px;
+}
+.Tname {
+  font-size: 30px;
+  color: #ffffff;
+  font-family: 'bree serif';
+}

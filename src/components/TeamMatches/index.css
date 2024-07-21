@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.team-matches {
+  background-image: linear-gradient(to bottom, #5755a7, #475569);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.recent-matches {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

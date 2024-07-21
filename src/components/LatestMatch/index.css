@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.details {
+  display: flex;
+  flex-direction: row;
+  background-color: #1e293b;
+  justify-content: space-around;
+  align-items: center;
+}
+.latest-match {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+}
+.logo {
+  height: 180px;
+}
+.common-details {
+  text-align: left;
+}
+.innings-details {
+  text-align: right;
+}
+.team {
+  font-size: 24px;
+  color: #ffffff;
+}
+.date {
+  font-size: 20px;
+  color: #ffffff;
+}
+.venue {
+  font-size: 18px;
+  color: #ffffff;
+}
+.header {
+  font-size: 18px;
+  color: #ffffff;
+}
+.answer {
+  font-size: 16px;
+  color: #ffffff;
+}

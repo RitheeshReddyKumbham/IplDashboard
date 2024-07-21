@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.match-card {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 380px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ffffff;
+  margin: 40px;
+  padding: 20px;
+}
+.match-card-img {
+  height: 180px;
+}
+.won {
+  color: #18ed66;
+}
+.lose {
+  color: #e31a1a;
+}
+.result {
+  color: #ffffff;
+}
